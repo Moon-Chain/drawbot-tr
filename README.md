@@ -8,7 +8,7 @@ DrawBot, [V2F](https://youtube.com/user/IV2FI) tarafından kodlanmış bir yazı
 
 ## Nereden indirebilirim?
 
-Buradan, .zip dosyası: [https://github.com/IV2FI/DrawBot/releases](https://github.com/IV2FI/DrawBot/releases)
+Buradan, .zip dosyası: [https://github.com/Moon-Chain/drawbot-tr/archive/refs/heads/main.zip](https://github.com/Moon-Chain/drawbot-tr/archive/refs/heads/main.zip)
 
 **Ancak önce, DrawBot'un nasıl kurulacağını ve doğru bir şekilde nasıl kullanılacağını anlamak için aşağıdaki videoyu izle!**
 
